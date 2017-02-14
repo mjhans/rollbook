@@ -175,3 +175,7 @@ crashlytics-build.properties
 fabric.properties
 
 # Created by .ignore support plugin (hsz.mobi)
+
+# my ignores
+*.sqlite3
+*/migrations/*
